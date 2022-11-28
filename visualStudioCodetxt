@@ -1,0 +1,8 @@
+- Agregar breakpoint: para detener la ejecución del script e indicar las variables que se encuentran en el 
+contexto de la función
+- Se debe seleccionar el archivo que se quiera pues al ejecutar el debugger lo hace respecto al archivo que estemos viendo en ese momento.
+
+ATAJOS DE TECLADO
+- ALT + Arriba o Abajo: cambia de lugar las líneas
+- SHIFT + TAB: retrocede luego de agregar espacios con tab
+- CTRL + P: buscar
